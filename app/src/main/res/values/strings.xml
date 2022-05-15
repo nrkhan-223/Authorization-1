@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Loginapp</string>
+    <string name="get_otp">Get OTP</string>
+    <string name="enter_mobile">Enter Mobile</string>
+    <string name="verify_and_signin">Verify and Signin</string>
+    <string name="enter_otp_here">Enter OTP here</string>
+</resources>
